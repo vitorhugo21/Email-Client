@@ -4,7 +4,6 @@
 
 Features used:
 * Routing (Resolver and Guards)
-* Resolver
 * Reactive Forms
 * Validators
 * Rxjs
